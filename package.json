@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@apollo/client": "^3.3.19",
+    "@apollo/client": "^3.5.10",
     "@reduxjs/toolkit": "^1.6.0",
     "@supabase/supabase-js": "^1.15.1",
     "@testing-library/jest-dom": "^5.11.4",
