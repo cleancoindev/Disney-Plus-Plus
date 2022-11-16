@@ -22,7 +22,7 @@
     "react-modal-video": "^1.2.7",
     "react-redux": "^7.2.4",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.0",
     "react-slick": "^0.28.1",
     "react-transition-group": "^2.9.0",
     "redux-persist": "^6.0.0",
